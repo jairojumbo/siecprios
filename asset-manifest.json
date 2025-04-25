@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9a7ed94.css",
+    "main.js": "/static/js/main.dec7d8a0.js",
+    "static/media/ueprios.jpg": "/static/media/ueprios.112fa1f946e7057b1fa2.jpg",
+    "index.html": "/index.html",
+    "main.f9a7ed94.css.map": "/static/css/main.f9a7ed94.css.map",
+    "main.dec7d8a0.js.map": "/static/js/main.dec7d8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a7ed94.css",
+    "static/js/main.dec7d8a0.js"
+  ]
+}
