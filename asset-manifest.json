@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8723d75.css",
-    "main.js": "/static/js/main.8b3ff526.js",
+    "main.css": "/static/css/main.20c44505.css",
+    "main.js": "/static/js/main.da0353fa.js",
     "static/media/ueprios.jpg": "/static/media/ueprios.112fa1f946e7057b1fa2.jpg",
     "index.html": "/index.html",
-    "main.c8723d75.css.map": "/static/css/main.c8723d75.css.map",
-    "main.8b3ff526.js.map": "/static/js/main.8b3ff526.js.map"
+    "main.20c44505.css.map": "/static/css/main.20c44505.css.map",
+    "main.da0353fa.js.map": "/static/js/main.da0353fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8723d75.css",
-    "static/js/main.8b3ff526.js"
+    "static/css/main.20c44505.css",
+    "static/js/main.da0353fa.js"
   ]
 }
