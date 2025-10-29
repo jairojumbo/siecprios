@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.20c44505.css",
-    "main.js": "/static/js/main.981e628a.js",
+    "main.js": "/static/js/main.63817a17.js",
     "static/media/ueprios.jpg": "/static/media/ueprios.112fa1f946e7057b1fa2.jpg",
     "index.html": "/index.html",
     "main.20c44505.css.map": "/static/css/main.20c44505.css.map",
-    "main.981e628a.js.map": "/static/js/main.981e628a.js.map"
+    "main.63817a17.js.map": "/static/js/main.63817a17.js.map"
   },
   "entrypoints": [
     "static/css/main.20c44505.css",
-    "static/js/main.981e628a.js"
+    "static/js/main.63817a17.js"
   ]
 }
